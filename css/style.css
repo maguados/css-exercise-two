@@ -17,8 +17,8 @@ a {
 }
 
 a:link { color:8850D1; } /* unvisited */
-a:visited { color:#360568; } /* visited */
-a:hover { color:#6200B3; } /* mouse over */
+a:visited { color:#6200B3; } /* visited */
+a:hover { color:#360568; } /* mouse over */
 a:active { text-decoration: underline;} /*selected*/
 
 figcaption {
